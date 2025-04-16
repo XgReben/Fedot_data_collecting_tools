@@ -1,0 +1,8 @@
+{
+  "num_samples": 100,
+  "sample_rate": 1000,
+  "duration": 1,
+  "base_frequency": 50,
+  "noise_level": 0.2,
+  "generated_at": "2025-04-16T21:16:09.174343"
+}

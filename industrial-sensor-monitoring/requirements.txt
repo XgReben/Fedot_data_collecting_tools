@@ -1,0 +1,24 @@
+# Основные зависимости
+flask==2.3.2
+numpy==1.24.3
+pandas==2.0.3
+matplotlib==3.7.1
+scipy==1.10.1
+pywavelets==1.4.1
+requests==2.31.0
+
+# Автоматизированное машинное обучение
+fedot-core==0.7.0
+fedot-industrial==0.1.1
+
+# Дополнительные утилиты
+python-dotenv==1.0.0
+werkzeug==2.3.6
+scikit-learn==1.3.0
+
+# Для работы с датами
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Для генерации документации (опционально)
+sphinx==7.0.1

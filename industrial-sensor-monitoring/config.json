@@ -1,0 +1,18 @@
+{
+    "data_dir": "data",
+    "labels_file": "labels.json",
+    "test_size": 0.2,
+    "random_state": 42,
+    "model_params": {
+      "scaling": {
+        "method": "standard"
+      },
+      "pca": {
+        "n_components": 2
+      },
+      "rf": {
+        "n_estimators": 100,
+        "max_depth": 5
+      }
+    }
+  }
